@@ -1,0 +1,16 @@
+- name: Johannes Gutenberg University
+  dates: 2004 - 2010
+  qualification: Diploma in Physics
+  description: | # this will include new lines to allow paragraphs
+
+- name: University of California, Berkeley
+  dates: 2005 - 2006
+  qualification: Physics, Year Abroad
+  description: | # this will include new lines to allow paragraphs
+    Grateful for the scholarship from the Evangelisches Studienwerk Villigst e.V.
+
+- name: TU Kaiserslautern
+  dates: 2003 - 2004
+  qualification: Distance Learning Mathematics and Physics
+  description: | # this will include new lines to allow paragraphs
+    During the mandatory community service

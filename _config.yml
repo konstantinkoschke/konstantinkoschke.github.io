@@ -1,0 +1,51 @@
+# Site
+repository: konstantinkoschke/konstantinkoschke.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: Konstantin Koschke
+title: Senior IT Consultant
+#email: almost!
+#website: not relevant
+
+# Social links
+github_username: konstantinkoschke
+linkedin_username: konstantinkoschke
+xing_username: Konstantin_Koschke
+xing_username: konstantin_koschke
+
+# About Section
+# about_title: About Me
+about_profile_image: images/konstantin_koschke.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello, my name is Konstantin Koschke and I am a senior software/IT consultant. I was molded in critical environments and numerous meetings with management, always keeping business value and high quality in mind. If allowed, I let new technologies try their best.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Keeping up-to-date with technology leaves little time for other interests and hobbies - nevertheless, these are:
+   - Biking (street, mountain)
+   - Hiking
+   - Coffee
+
+# Footer
+#footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

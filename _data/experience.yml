@@ -1,0 +1,13 @@
+- company: TNG Technology Consulting GmbH
+  link: tngtech.com
+  job_title: Senior Consultant
+  dates: December 2013 - Present
+  #description: | # this will include new lines to allow paragraphs
+    
+- company: Max Planck Institute for Polymer Research
+  link: mpip-mainz.mpg.de
+  job_title: Scientific Assistant
+  dates: April 2010 - November 2013
+  description: | # this will include new lines to allow paragraphs
+    Developing models in the field of statistical physics and conducting numerical calculations using molecular dynamics simulations turns out to be a solid basis for correct and performant software engineering.
+    
