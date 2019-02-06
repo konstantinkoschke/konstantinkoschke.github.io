@@ -19,6 +19,8 @@ about_profile_image: images/konstantin_koschke.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Konstantin Koschke and I am a senior software/IT consultant. I was molded in critical environments and numerous meetings with management, always keeping business value and high quality in mind. If allowed, I let new technologies try their best.
 
+  Feel free to [download my resume as a PDF](https://raw.githubusercontent.com/konstantinkoschke/Awesome-CV-KonstantinKoschke/master/examples/konstantin_koschke_resume.pdf). 
+
 # Projects Section
 # projects_title: Projects
 
